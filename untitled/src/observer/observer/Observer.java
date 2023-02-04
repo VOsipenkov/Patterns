@@ -1,6 +1,6 @@
 package observer.observer;
 
-import observer.listener.WeatherData;
+import observer.subject.WeatherData;
 
 public interface Observer {
     void update(WeatherData data);

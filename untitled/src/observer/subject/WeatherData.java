@@ -1,4 +1,4 @@
-package observer.listener;
+package observer.subject;
 
 public class WeatherData {
     private int humidity;

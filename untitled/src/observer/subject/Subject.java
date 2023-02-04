@@ -1,4 +1,4 @@
-package observer.listener;
+package observer.subject;
 
 import observer.observer.Observer;
 

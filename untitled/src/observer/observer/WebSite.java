@@ -1,7 +1,7 @@
 package observer.observer;
 
-import observer.listener.Subject;
-import observer.listener.WeatherData;
+import observer.subject.WeatherData;
+import observer.subject.Subject;
 
 public class WebSite implements Observer {
 

@@ -1,7 +1,7 @@
 package observer.observer;
 
-import observer.listener.Subject;
-import observer.listener.WeatherData;
+import observer.subject.Subject;
+import observer.subject.WeatherData;
 
 public class Phone implements Observer {
 

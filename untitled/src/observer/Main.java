@@ -1,7 +1,7 @@
 package observer;
 
-import observer.listener.SubjectImpl;
-import observer.listener.WeatherData;
+import observer.subject.SubjectImpl;
+import observer.subject.WeatherData;
 import observer.observer.Phone;
 import observer.observer.WebSite;
 
